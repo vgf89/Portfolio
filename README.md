@@ -8,3 +8,4 @@ This describes and links to various projects of mine to serve as a basic program
 
 # Others
 * RHCalc, a meterological calculator Android app developed for RH Systems during a summer internship. Verying calculations was test driven with JTest. (can provide APK upon request)
+* A simple inventory management system (programmed in Python, with the CheryPy framework, Postgres database, and the SQLAlchemy toolkit) for RH Systems
