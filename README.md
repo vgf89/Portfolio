@@ -7,8 +7,6 @@ This project describes and links to various projects of mine to serve as a simpl
 * The Recipe Stop, a PostgreSQL and Pyramid driven web-application for sharing recipes (site no longer hosted, but repository is here, just ask me for access): https://github.com/vgf89/RecipeStop
 * Simulated Star-Of-Stars and Star-In-Ring networks created in C# for a Networking course (can provide on request)
 
-# Others
-
 ## Personal
 * [Chip8](https://en.wikipedia.org/wiki/CHIP-8) emulator in Rust (WIP):
 https://github.com/vgf89/chip8remu
