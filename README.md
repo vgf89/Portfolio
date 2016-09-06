@@ -11,7 +11,7 @@ This project describes and links to various projects of mine to serve as a simpl
 * [Chip8](https://en.wikipedia.org/wiki/CHIP-8) emulator in Rust (WIP):
 https://github.com/vgf89/chip8remu
 
-## RH Systems intern projects:
+## Intern projects:
+* Parts of an instrument control and logging software for RH Systems. I mostly worked on some UI design/implementation, as well as real-time plotting behaviors
 * RHCalc, a meterological calculator Android app developed for RH Systems during a summer internship. Verfying calculations was test driven with JTest. (will provide APK upon request)
 * A simple inventory management system for RH Systems, programmed in Python, using the CheryPy framework, Postgres database, and the SQLAlchemy toolkit
-* Parts of an instrument control and logging software. I mostly worked on some UI design/implementation, as well as real-time plotting behaviors
